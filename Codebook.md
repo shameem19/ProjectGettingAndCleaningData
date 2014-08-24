@@ -53,6 +53,4 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 
 For the purpose of this project other estimates have been removed.
 
-Note: features are normalized and bounded within [-1,1].
-
 Naming convention for the variable names are of the following form: tbodyaccmeanx, which means the mean value of tBodyAcc-XYZ.
